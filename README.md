@@ -1,60 +1,21 @@
-<h1 align="center">onyx</h1>
-<p align="center">
-  <samp>full-stack engineer · ai systems designer · human-computer interface architect</samp>
-</p>
+# Mohammad Al Shawabkeh
 
----
+Full-stack engineer specializing in scalable systems and AI integration.
 
-### about
-i build systems that merge intelligence, interaction, and design.  
-my work explores how computation can think — how interfaces can adapt — and how code can feel intentional.  
-specialized in **next.js**, **node.js**, and **python**, with emphasis on scalable architectures and ai-native workflows.
+## Work
 
-```bash
-$ whoami
-> onyx — independent engineer from jordan
-> runtime: adaptive ai environments
-> focus: cognition · architecture · interface
-```
+I build production systems across the stack—backend infrastructure, AI tooling, and interface design. 8+ years shipping products that handle real-world complexity.
 
----
+**Core stack:** Next.js, Node.js, Python
 
-### technical domains
+**Focus areas:**
+- Distributed systems and architecture design
+- AI integration and prompt engineering
+- Full-stack product development
+- Interface design and UX
 
-| field                          | specialization                                                |
-| :----------------------------- | :------------------------------------------------------------ |
-| **systems engineering**        | architecture design · distributed runtimes · scalability      |
-| **artificial intelligence**    | contextual reasoning · prompt systems · agentic tooling       |
-| **software development**       | full-stack product engineering · automation pipelines         |
-| **human-computer interaction** | interface logic · creative tooling · perceptual ui/ux         |
-| **design language**            | minimal systems · data-driven visuals · information hierarchy |
+## Contact
 
----
-
-### capabilities
-
-engineer with **8+ years** of experience building across the stack — from backend runtimes to generative interfaces.
-capable of architecting, designing, and deploying complex systems with clean abstractions and measurable efficiency.
-known for creating **high-performance ai frameworks**, **developer tools**, and **adaptive design environments**.
-comfortable working across infrastructure, product, and research domains.
-strong fluency in **context-engineering**, **creative reasoning**, and **system optimization**.
-
----
-
-### mindset
-
-> clarity, scalability, and intention are the only metrics that matter.
-> i treat software as a medium for reasoning — not just output.
-
----
-
-### contact
-
-📧 **[shawaabkeh@gmail.com](mailto:shawaabkeh@gmail.com)**
-🌐 [discord](https://h1.nu/onyx-discord) • [instagram](https://www.instagram.com/oelp)
-
----
-
-<p align="center">
-  <samp>“build systems that think before they run.”</samp>
-</p>
+**Email:** shawaabkeh@gmail.com  
+**Discord:** [discord](https://h1.nu/onyx-discord)  
+**Instagram:** [@oelp](https://www.instagram.com/oelp)
